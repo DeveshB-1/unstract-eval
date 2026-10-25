@@ -1,0 +1,32 @@
+{
+  "invoice_number": "HFF-88213",
+  "invoice_date": "2026-05-02",
+  "due_date": "2026-05-16",
+  "vendor_name": "Harbor Freight Forwarding",
+  "customer_name": "Brightline Logistics Inc",
+  "currency": "USD",
+  "po_number": "PO-78010",
+  "line_items": [
+    {
+      "description": "Ocean freight, 40ft container SHA-LAX",
+      "quantity": 1,
+      "unit_price": 3800.0,
+      "amount": 3800.0
+    },
+    {
+      "description": "Customs clearance",
+      "quantity": 1,
+      "unit_price": 275.0,
+      "amount": 275.0
+    },
+    {
+      "description": "Drayage",
+      "quantity": 2,
+      "unit_price": 410.0,
+      "amount": 820.0
+    }
+  ],
+  "subtotal": 4895.0,
+  "tax": 0.0,
+  "total": 4895.0
+}

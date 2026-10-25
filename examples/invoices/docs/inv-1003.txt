@@ -1,0 +1,15 @@
+PATEL & RAO CHARTERED ACCOUNTANTS
+
+INVOICE  PRCA/26-27/018
+Invoice date: 2026-04-18
+Due date: 2026-05-18
+Bill to: Brightline Logistics Inc
+PO number: PO-77904
+
+Description | Qty | Unit price | Amount
+Statutory audit FY2025-26 | 1 | Rs. 185,000.00 | Rs. 185,000.00
+GST filing support | 3 | Rs. 7,500.00 | Rs. 22,500.00
+
+Subtotal: Rs. 207,500.00
+Tax: Rs. 37,350.00
+Total due (INR): Rs. 244,850.00

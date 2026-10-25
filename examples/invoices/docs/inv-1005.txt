@@ -1,0 +1,15 @@
+GREENLEAF OFFICE FURNITURE
+
+INVOICE  GOF-5531
+Invoice date: 2026-05-20
+Due date: 2026-06-19
+Bill to: Brightline Logistics Inc
+PO number: PO-78122
+
+Description | Qty | Unit price | Amount
+Ergonomic chair, model GL-200 | 6 | $329.00 | $1,974.00
+Standing desk frame | 3 | $449.00 | $1,347.00
+
+Subtotal: $3,321.00
+Tax: $265.68
+Total due (USD): $3,586.68

@@ -1,0 +1,23 @@
+[project]
+name = "unstract-eval"
+version = "0.1.0"
+description = "Golden-set accuracy and LLM-profile comparison for Unstract API deployments"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["httpx>=0.27"]
+
+[project.scripts]
+unstract-eval = "unstract_eval.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/unstract_eval"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

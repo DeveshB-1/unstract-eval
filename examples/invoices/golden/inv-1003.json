@@ -1,0 +1,26 @@
+{
+  "invoice_number": "PRCA/26-27/018",
+  "invoice_date": "2026-04-18",
+  "due_date": "2026-05-18",
+  "vendor_name": "Patel & Rao Chartered Accountants",
+  "customer_name": "Brightline Logistics Inc",
+  "currency": "INR",
+  "po_number": "PO-77904",
+  "line_items": [
+    {
+      "description": "Statutory audit FY2025-26",
+      "quantity": 1,
+      "unit_price": 185000.0,
+      "amount": 185000.0
+    },
+    {
+      "description": "GST filing support",
+      "quantity": 3,
+      "unit_price": 7500.0,
+      "amount": 22500.0
+    }
+  ],
+  "subtotal": 207500.0,
+  "tax": 37350.0,
+  "total": 244850.0
+}

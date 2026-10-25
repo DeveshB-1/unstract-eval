@@ -1,0 +1,15 @@
+KESTREL CLOUD SERVICES
+
+INVOICE  KCS-2026-0412
+Invoice date: 2026-04-01
+Due date: 2026-05-01
+Bill to: Brightline Logistics Inc
+PO number: -
+
+Description | Qty | Unit price | Amount
+Managed Kubernetes cluster (April) | 1 | $1,250.00 | $1,250.00
+Object storage, 2 TB | 2 | $46.00 | $92.00
+
+Subtotal: $1,342.00
+Tax: $0.00
+Total due (USD): $1,342.00

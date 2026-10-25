@@ -1,0 +1,280 @@
+{
+  "_note": "Simulated outputs and costs for the offline demo. Not real model results.",
+  "default_profile": "profile-a",
+  "cost_per_doc": {
+    "profile-a": 0.0021,
+    "profile-b": 0.0094
+  },
+  "profiles": {
+    "profile-a": {
+      "inv-1001.txt": {
+        "invoice_number": "INV-1001",
+        "invoice_date": "03/14/2026",
+        "due_date": "04/13/2026",
+        "vendor_name": "Northwind Supplies LLC.",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "USD",
+        "po_number": "PO-77821",
+        "line_items": [
+          {
+            "description": "Toner cartridge HP 58A",
+            "quantity": 4,
+            "unit_price": "89.99",
+            "amount": 359.96
+          },
+          {
+            "description": "A4 copy paper, 5-ream box",
+            "quantity": 10,
+            "unit_price": 42.5,
+            "amount": 425.0
+          }
+        ],
+        "subtotal": 784.96,
+        "tax": 62.8,
+        "total": "$847.76"
+      },
+      "inv-1002.txt": {
+        "invoice_number": "KCS-2026-0412",
+        "invoice_date": "2026-04-01",
+        "due_date": "2026-04-01",
+        "vendor_name": "KESTREL CLOUD SERVICES",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "USD",
+        "po_number": "",
+        "line_items": [
+          {
+            "description": "Managed Kubernetes cluster (April)",
+            "quantity": 1,
+            "unit_price": 1250.0,
+            "amount": 1250.0
+          },
+          {
+            "description": "Object storage, 2 TB",
+            "quantity": 2,
+            "unit_price": 46.0,
+            "amount": 92.0
+          }
+        ],
+        "subtotal": "1,342.00",
+        "tax": 0.0,
+        "total": 1342.0
+      },
+      "inv-1003.txt": {
+        "invoice_number": "PRCA/26-27/018",
+        "invoice_date": "18 Apr 2026",
+        "due_date": "18 May 2026",
+        "vendor_name": "Patel & Rao Chartered Accountants",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "INR",
+        "po_number": "PO-77904",
+        "line_items": [
+          {
+            "description": "Statutory audit FY2025-26",
+            "quantity": 1,
+            "unit_price": 185000.0,
+            "amount": 185000.0
+          }
+        ],
+        "subtotal": "2,07,500.00",
+        "tax": "37,350.00",
+        "total": "2,44,850.00"
+      },
+      "inv-1004.txt": {
+        "invoice_number": "HFF-88213",
+        "invoice_date": "May 2, 2026",
+        "due_date": "May 16, 2026",
+        "vendor_name": "Harbor Freight Forwarding",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "USD",
+        "po_number": "PO-78010",
+        "line_items": [
+          {
+            "description": "Ocean freight, 40ft container SHA-LAX",
+            "quantity": 1,
+            "unit_price": 3800.0,
+            "amount": 3800.0
+          },
+          {
+            "description": "Customs clearance",
+            "quantity": 1,
+            "unit_price": 275.0,
+            "amount": 275.0
+          }
+        ],
+        "subtotal": 4075.0,
+        "tax": 0.0,
+        "total": 4075.0
+      },
+      "inv-1005.txt": {
+        "invoice_number": "GOF-5531",
+        "invoice_date": "2026-05-20",
+        "due_date": "2026-06-19",
+        "vendor_name": "Greenleaf Office Furniture",
+        "customer_name": "Brightline Logistics",
+        "currency": "USD",
+        "po_number": "PO-78122",
+        "line_items": [
+          {
+            "description": "Ergonomic chair, model GL-200",
+            "quantity": 5,
+            "unit_price": 329.0,
+            "amount": 1974.0
+          },
+          {
+            "description": "Standing desk frame",
+            "quantity": 3,
+            "unit_price": 449.0,
+            "amount": 1347.0
+          },
+          {
+            "description": "Delivery and assembly",
+            "quantity": 1,
+            "unit_price": 0,
+            "amount": 0
+          }
+        ],
+        "subtotal": 3321.0,
+        "tax": 265.68,
+        "total": 3586.68
+      }
+    },
+    "profile-b": {
+      "inv-1001.txt": {
+        "invoice_number": "INV-1001",
+        "invoice_date": "2026-03-14",
+        "due_date": "2026-04-13",
+        "vendor_name": "Northwind Supplies LLC",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "USD",
+        "po_number": "PO-77821",
+        "line_items": [
+          {
+            "description": "A4 copy paper, 5-ream box",
+            "quantity": 10,
+            "unit_price": 42.5,
+            "amount": 425.0
+          },
+          {
+            "description": "Toner cartridge HP 58A",
+            "quantity": 4,
+            "unit_price": 89.99,
+            "amount": 359.96
+          }
+        ],
+        "subtotal": 784.96,
+        "tax": 62.8,
+        "total": "$847.76"
+      },
+      "inv-1002.txt": {
+        "invoice_number": "KCS-2026-0412",
+        "invoice_date": "2026-04-01",
+        "due_date": "2026-05-01",
+        "vendor_name": "Kestrel Cloud Services Pvt Ltd",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "USD",
+        "po_number": null,
+        "line_items": [
+          {
+            "description": "Managed Kubernetes cluster (April)",
+            "quantity": 1,
+            "unit_price": 1250.0,
+            "amount": 1250.0
+          },
+          {
+            "description": "Object storage, 2 TB",
+            "quantity": 2,
+            "unit_price": 46.0,
+            "amount": 92.0
+          }
+        ],
+        "subtotal": 1342.0,
+        "tax": 0.0,
+        "total": 1342.0
+      },
+      "inv-1003.txt": {
+        "invoice_number": "PRCA/26-27/018",
+        "invoice_date": "2026-04-18",
+        "due_date": "2026-05-18",
+        "vendor_name": "Patel & Rao Chartered Accountants",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "INR",
+        "po_number": "PO-77904",
+        "line_items": [
+          {
+            "description": "Statutory audit FY2025-26",
+            "quantity": 1,
+            "unit_price": 185000.0,
+            "amount": 185000.0
+          },
+          {
+            "description": "GST filing support",
+            "quantity": 3,
+            "unit_price": 7500.0,
+            "amount": 22500.0
+          }
+        ],
+        "subtotal": "207,500.00",
+        "tax": 37350.0,
+        "total": 244850.0
+      },
+      "inv-1004.txt": {
+        "invoice_number": "HFF-88213",
+        "invoice_date": "2026-05-02",
+        "due_date": "2026-05-16",
+        "vendor_name": "Harbor Freight Forwarding",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "USD",
+        "po_number": "78010",
+        "line_items": [
+          {
+            "description": "Ocean freight, 40ft container SHA-LAX",
+            "quantity": 1,
+            "unit_price": 3800.0,
+            "amount": 3800.0
+          },
+          {
+            "description": "Customs clearance",
+            "quantity": 1,
+            "unit_price": 275.0,
+            "amount": 275.0
+          },
+          {
+            "description": "Drayage",
+            "quantity": 2,
+            "unit_price": 410.0,
+            "amount": 820.0
+          }
+        ],
+        "subtotal": 4895.0,
+        "tax": 0.0,
+        "total": 4895.0
+      },
+      "inv-1005.txt": {
+        "invoice_number": "GOF-5531",
+        "invoice_date": "May 20th, 2026",
+        "due_date": "2026-06-19",
+        "vendor_name": "Greenleaf Office Furniture",
+        "customer_name": "Brightline Logistics Inc",
+        "currency": "USD",
+        "po_number": "PO-78122",
+        "line_items": [
+          {
+            "description": "Ergonomic chair, model GL-200",
+            "quantity": 6,
+            "unit_price": 329.0,
+            "amount": 1974.0
+          },
+          {
+            "description": "Standing desk frame",
+            "quantity": 3,
+            "unit_price": 449.0,
+            "amount": 1347.0
+          }
+        ],
+        "subtotal": 3321.0,
+        "tax": 265.68,
+        "total": 3586.68
+      }
+    }
+  }
+}

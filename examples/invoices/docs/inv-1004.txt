@@ -1,0 +1,16 @@
+HARBOR FREIGHT FORWARDING
+
+INVOICE  HFF-88213
+Invoice date: 2026-05-02
+Due date: 2026-05-16
+Bill to: Brightline Logistics Inc
+PO number: PO-78010
+
+Description | Qty | Unit price | Amount
+Ocean freight, 40ft container SHA-LAX | 1 | $3,800.00 | $3,800.00
+Customs clearance | 1 | $275.00 | $275.00
+Drayage | 2 | $410.00 | $820.00
+
+Subtotal: $4,895.00
+Tax: $0.00
+Total due (USD): $4,895.00

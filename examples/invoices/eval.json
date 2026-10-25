@@ -1,0 +1,27 @@
+{
+  "date_order": "MDY",
+  "number_tolerance": 0.01,
+  "fields": {
+    "vendor_name": {
+      "type": "fuzzy",
+      "threshold": 0.9
+    },
+    "customer_name": {
+      "type": "fuzzy",
+      "threshold": 0.9
+    },
+    "invoice_number": {
+      "type": "string"
+    },
+    "po_number": {
+      "type": "string"
+    },
+    "currency": {
+      "type": "string"
+    },
+    "line_items[*].description": {
+      "type": "fuzzy",
+      "threshold": 0.85
+    }
+  }
+}

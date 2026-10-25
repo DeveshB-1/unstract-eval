@@ -1,0 +1,26 @@
+{
+  "invoice_number": "GOF-5531",
+  "invoice_date": "2026-05-20",
+  "due_date": "2026-06-19",
+  "vendor_name": "Greenleaf Office Furniture",
+  "customer_name": "Brightline Logistics Inc",
+  "currency": "USD",
+  "po_number": "PO-78122",
+  "line_items": [
+    {
+      "description": "Ergonomic chair, model GL-200",
+      "quantity": 6,
+      "unit_price": 329.0,
+      "amount": 1974.0
+    },
+    {
+      "description": "Standing desk frame",
+      "quantity": 3,
+      "unit_price": 449.0,
+      "amount": 1347.0
+    }
+  ],
+  "subtotal": 3321.0,
+  "tax": 265.68,
+  "total": 3586.68
+}

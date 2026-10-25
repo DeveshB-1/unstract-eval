@@ -1,0 +1,26 @@
+{
+  "invoice_number": "KCS-2026-0412",
+  "invoice_date": "2026-04-01",
+  "due_date": "2026-05-01",
+  "vendor_name": "Kestrel Cloud Services",
+  "customer_name": "Brightline Logistics Inc",
+  "currency": "USD",
+  "po_number": null,
+  "line_items": [
+    {
+      "description": "Managed Kubernetes cluster (April)",
+      "quantity": 1,
+      "unit_price": 1250.0,
+      "amount": 1250.0
+    },
+    {
+      "description": "Object storage, 2 TB",
+      "quantity": 2,
+      "unit_price": 46.0,
+      "amount": 92.0
+    }
+  ],
+  "subtotal": 1342.0,
+  "tax": 0.0,
+  "total": 1342.0
+}

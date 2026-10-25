@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-1001",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-13",
+  "vendor_name": "Northwind Supplies LLC",
+  "customer_name": "Brightline Logistics Inc",
+  "currency": "USD",
+  "po_number": "PO-77821",
+  "line_items": [
+    {
+      "description": "A4 copy paper, 5-ream box",
+      "quantity": 10,
+      "unit_price": 42.5,
+      "amount": 425.0
+    },
+    {
+      "description": "Toner cartridge HP 58A",
+      "quantity": 4,
+      "unit_price": 89.99,
+      "amount": 359.96
+    }
+  ],
+  "subtotal": 784.96,
+  "tax": 62.8,
+  "total": 847.76
+}

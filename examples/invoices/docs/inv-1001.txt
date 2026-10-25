@@ -1,0 +1,15 @@
+NORTHWIND SUPPLIES LLC
+
+INVOICE  INV-1001
+Invoice date: 2026-03-14
+Due date: 2026-04-13
+Bill to: Brightline Logistics Inc
+PO number: PO-77821
+
+Description | Qty | Unit price | Amount
+A4 copy paper, 5-ream box | 10 | $42.50 | $425.00
+Toner cartridge HP 58A | 4 | $89.99 | $359.96
+
+Subtotal: $784.96
+Tax: $62.80
+Total due (USD): $847.76
